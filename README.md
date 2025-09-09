@@ -1,9 +1,10 @@
-## Ubuntu-Inspired Image Fetcher Assignment
-**The Wisdom of Ubuntu: "I am because we are"**
+# Ubuntu-Inspired Image Fetcher Assignment
+
+## The Wisdom of Ubuntu: "I am because we are"
 
 In the spirit of Ubuntu, which emphasises community and sharing, your task is to create a program that connects to the global community of the internet, respectfully fetches shared resources, and organises them for later appreciation.
 
-**Your Task**
+## Your Task
 
 Create a Python script that:
 
@@ -17,7 +18,7 @@ Saves it to the Fetched_Images directory with an appropriate filename
 
 Handles errors gracefully, respecting that not all connections succeed
 
-**Requirements**
+## Requirements
 
 Use the requests library to fetch the image
 
@@ -49,7 +50,7 @@ Implement a feature that prevents downloading duplicate images.
 
 Implement what HTTP headers might be important to check before saving the response content.
 
-**Evaluation Criteria**
+## Evaluation Criteria
 
 Proper use of the requests library for fetching content
 
@@ -64,4 +65,3 @@ Faithfulness to Ubuntu principles of community and respect
 Remember:
 
 "A person is a person through other persons." - Ubuntu philosophy. Your program connects you to the work of others across the web.
-
